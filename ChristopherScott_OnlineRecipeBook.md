@@ -2,6 +2,8 @@ Christopher Scott
 
 # Online Recipe Book
 
+![UML Use Case Diagram](https://github.com/Christopher-Scott/ChristopherScott_OnlineRecipeBook/blob/master/ChristopherScott_OnlineRecipeBook.png)
+
 ### Project Abstract
 
 The online recipe book is a simplistic web application for easy storage, access, and sharing of cooking recipes.  Many people have a trove of old recipes written out and handed down through generations.  If sauce spills on your grandmother’s recipe for Bolognese, the knowledge is lost forever.  The online recipe book supplies a free and modern solution for treasured recipes.  As a web application, the content will be accessible from any device capable of connecting to the internet.  User accessibility is an important goal of this project and will be achieved by utilizing responsive web design and simple text-based content.
